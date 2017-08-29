@@ -11,6 +11,7 @@ docker run \
   --detach \
   --name tensorflow-models \
   --publish 8888:8888 \
+  --volume tf_exchange:/notebooks/tf_exchange \
 bmakowe/tensorflow-models
 ```
 
