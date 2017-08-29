@@ -16,9 +16,9 @@ bmakowe/tensorflow-models
 
 
 ## Additional informations
-[Github Tensorflow models](https://github.com/tensorflow/models)
-[Tensorflow Documentation](https://www.tensorflow.org/get_started/)
-[Tensorflow Tutorials](https://www.tensorflow.org/tutorials/)
+- [Github Tensorflow models](https://github.com/tensorflow/models)
+- [Tensorflow Documentation](https://www.tensorflow.org/get_started/)
+- [Tensorflow Tutorials](https://www.tensorflow.org/tutorials/)
 
 ## Version
 1.0
